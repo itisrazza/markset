@@ -1,5 +1,13 @@
 # Markset
 
+>
+> I made this project right before I discovered a program called [Pandoc](https://pandoc.org/) which does what this project was aiming to do, but better.
+> 
+> I've also beaten my LaTeX-phobia since I started getting more and more familiar with the typesetting system.
+>
+> This project is deprecated. 
+>
+
 A simple **Markdown Typesetter** (probably a misnomer, but I'll go with it) for people who don't want to touch L<sup>A</sup>T<sub>E</sub>X with a 10 foot pole.
 
 It's a simple command-line tool that converts your Markdown files to HTML (with some [snazzy themes](themes/)) and [some off-the-shelf plugins](data/plugins.json). All built on top of [markdown-it](https://markdown-it.github.io/markdown-it/).
