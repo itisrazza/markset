@@ -5,7 +5,7 @@
 > 
 > I've also beaten my LaTeX-phobia since I started getting more and more familiar with the typesetting system.
 >
-> This project is deprecated. 
+> This project is deprecated in favour of Pandoc.
 >
 
 A simple **Markdown Typesetter** (probably a misnomer, but I'll go with it) for people who don't want to touch L<sup>A</sup>T<sub>E</sub>X with a 10 foot pole.
